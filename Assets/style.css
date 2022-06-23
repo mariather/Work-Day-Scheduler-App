@@ -1,6 +1,6 @@
 body {
   font-family:Georgia, 'Times New Roman', Times, serif;
-  font-size: 17px;
+  font-size: 18px;
   line-height: 1;
   background-color: antiquewhite;
 }
@@ -41,9 +41,10 @@ textarea {
 }
 
 .hour {
-  background-color: #ffffff;
-  color: #000000;
-  border-top: 1px dashed #000000;
+  background-color: white;
+  color: #161515;
+  border-radius: 10%;
+  font-size: large;
   
   
 }
@@ -67,7 +68,7 @@ textarea {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #74969e;
+  background-color: #2f8396;
   color: white;
   height: 60px;
   width: 100%;
@@ -77,8 +78,11 @@ textarea {
 }
 
 .saveBtn i:hover {
-  font-size: 20px;
+  font-size: 30px;
   transition: all 0.3s ease-in-out;
 }
 
+
+
+ 
 
