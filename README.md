@@ -14,4 +14,4 @@ This website is desktop and mobile compatible.
 
 ## Mock-Up
 
-![alt text](/../Work-Day-Scheduler-App/Images/calendar.png)
+![](/../Work-Day-Scheduler-App/Images/calendar.png)
