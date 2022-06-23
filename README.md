@@ -4,7 +4,7 @@ Daily calendar application that allows a user to save events for each hour of th
 
 This app is especial for users with a busy schedule who need to organize their time effectively.
 
-## Funcionality
+## Usage
 
 This daily calendar displays time hours of the day between 9 AM - 5 PM.
 The page's header displays the current day and date, along with the present time. The user also has a Clear bottom to reset the daily content of the calendar.
