@@ -84,5 +84,7 @@ textarea {
 
 
 
- 
-
+ .form-control{
+  font-family: 'Courier New', Courier, monospace;
+  color: #000000;
+ }

@@ -12,9 +12,28 @@ Each time block is color-coded to indicate whether it occurs in the past(gray), 
 Each time block has an input field where users can save the information on the local storage.
 This website is desktop and mobile compatible.
 
+## Technologies used
+
+HTML, CSS and Javascript.
+
 ## Mock-Up
 
 ![](Images/calendar.png)
 
-![](Images/05-third-party-apis-homework-demo.gif)
+## Test 
+
+![](Images/work%20day%20scheduler.gif)
+
+
+## Status
+
+In progress.
+
+Although this daily calendar works and is almost ready, only the hours 9 AM,10 AM, and 12 AM save the input in the local storage. The Javascript sheet is in the process of some changes to improve its functionality. 
+
+
+
+
+
+
 

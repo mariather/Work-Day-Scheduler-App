@@ -1,23 +1,4 @@
 
-
-// Display today's day and date
-
-/*
-$(document).ready(function () {
-    // saveBtn click listener 
-    $(".saveBtn").on("click", function () {
-        // Get nearby values of the description in JQuery
-        var text = $(this).siblings(".description").val();
-        var time = $(this).parent().attr("id");
-
-        // Save text in local storage
-        localStorage.setItem(time, text);
-    })
-   
-   
-})*/
-
-// importante para que funcione el color
 var todayDate = moment().format('dddd, MMM Do YYYY');
 $("#today-date").html(todayDate);
 
@@ -190,14 +171,6 @@ function checkTime() {
     
 
 }
-
-
-//
-
-
-
-//var NewmilitaryTime=parseInt(moment().format('HH'));
-
 
 
 
